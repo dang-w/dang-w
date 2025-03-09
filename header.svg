@@ -1,0 +1,70 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#0D1117" />
+
+  <!-- Background Pattern -->
+  <defs>
+    <pattern id="diagonalPattern" patternUnits="userSpaceOnUse" width="40" height="40"
+      patternTransform="rotate(45)">
+      <rect width="20" height="20" fill="rgba(255, 79, 0, 0.05)" />
+    </pattern>
+  </defs>
+  <rect x="600" y="0" width="600" height="300" fill="url(#diagonalPattern)" />
+
+  <!-- Accent Circle -->
+  <circle cx="1000" cy="50" r="100" fill="url(#radialGradient)" />
+  <defs>
+    <radialGradient id="radialGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgba(255, 79, 0, 0.2)" />
+      <stop offset="70%" stop-color="rgba(255, 79, 0, 0)" />
+    </radialGradient>
+  </defs>
+
+  <!-- Name -->
+  <text x="60" y="80" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="white">DAN
+    WALSH</text>
+
+  <!-- Accent Bar -->
+  <rect x="60" y="100" width="100" height="5" fill="#FF4F00" />
+
+  <!-- Title -->
+  <text x="60" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="500"
+    fill="#FF4F00">Senior Software Engineer</text>
+
+  <!-- Description -->
+  <text x="60" y="180" font-family="Arial, sans-serif" font-size="18" fill="white">Frontend
+    specialist with a passion for modern web technologies, AI,</text>
+  <text x="60" y="210" font-family="Arial, sans-serif" font-size="18" fill="white">and sustainable
+    development.</text>
+
+  <!-- Tech Stack -->
+  <rect x="60" y="240" width="110" height="30" rx="4" fill="rgba(255, 79, 0, 0.2)"
+    stroke="rgba(255, 79, 0, 0.5)" />
+  <text x="115" y="260" font-family="Arial, sans-serif" font-size="14" fill="white"
+    text-anchor="middle">JavaScript</text>
+
+  <rect x="180" y="240" width="70" height="30" rx="4" fill="rgba(255, 79, 0, 0.2)"
+    stroke="rgba(255, 79, 0, 0.5)" />
+  <text x="215" y="260" font-family="Arial, sans-serif" font-size="14" fill="white"
+    text-anchor="middle">React</text>
+
+  <rect x="260" y="240" width="110" height="30" rx="4" fill="rgba(255, 79, 0, 0.2)"
+    stroke="rgba(255, 79, 0, 0.5)" />
+  <text x="315" y="260" font-family="Arial, sans-serif" font-size="14" fill="white"
+    text-anchor="middle">TypeScript</text>
+
+  <rect x="380" y="240" width="90" height="30" rx="4" fill="rgba(255, 79, 0, 0.2)"
+    stroke="rgba(255, 79, 0, 0.5)" />
+  <text x="425" y="260" font-family="Arial, sans-serif" font-size="14" fill="white"
+    text-anchor="middle">Node.js</text>
+
+  <rect x="480" y="240" width="80" height="30" rx="4" fill="rgba(255, 79, 0, 0.2)"
+    stroke="rgba(255, 79, 0, 0.5)" />
+  <text x="520" y="260" font-family="Arial, sans-serif" font-size="14" fill="white"
+    text-anchor="middle">Python</text>
+
+  <rect x="570" y="240" width="50" height="30" rx="4" fill="rgba(255, 79, 0, 0.2)"
+    stroke="rgba(255, 79, 0, 0.5)" />
+  <text x="595" y="260" font-family="Arial, sans-serif" font-size="14" fill="white"
+    text-anchor="middle">Go</text>
+</svg>
