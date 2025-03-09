@@ -52,7 +52,6 @@ I'm a passionate developer with expertise in building scalable applications and 
 
 ### AI & ML
 <div>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 </div>
 
@@ -84,11 +83,8 @@ A tool to automatically synchronize ZSH shell settings between multiple devices 
   <a href="mailto:hello@danwalsh.co">
     <img src="https://img.shields.io/badge/Email-FF4F00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/dgwalsh">
     <img src="https://img.shields.io/badge/LinkedIn-FF4F00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/dang-w">
-    <img src="https://img.shields.io/badge/GitHub-FF4F00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
