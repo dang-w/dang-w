@@ -57,6 +57,9 @@ I'm a passionate developer with expertise in building scalable applications and 
 
 ## FEATURED PROJECTS
 
+### [AI Content Summariser](https://github.com/dang-w/ai-content-summariser)
+An intelligent tool that automatically generates concise summaries of articles, documents, and web content using natural language processing. 
+
 ### [Example MCP](https://github.com/dang-w/example-mcp)
 This repository contains example implementations of Model Context Protocol (MCP) servers that can be used with Cursor IDE to enhance AI capabilities with custom tools and data sources.
 
