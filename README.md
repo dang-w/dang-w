@@ -1,31 +1,33 @@
 # DAN WALSH
-## Senior Software Engineer + Applied AI Engineer
+## Senior Software Engineer — AI-native
 
 📍 London · [hello@danwalsh.co](mailto:hello@danwalsh.co) · [Site](https://danwalsh.co) · [LinkedIn](https://linkedin.com/in/dgwalsh) · [Bluesky](https://bsky.app/profile/ff4f00.bsky.social)
 
 ---
 
-Senior Software Engineer with 8+ years experience, now focused on making AI genuinely useful for engineering teams. Deep expertise in React/TypeScript, broad full-stack capabilities, and actively building at the intersection of solid engineering fundamentals and practical AI integration.
+Senior engineer, 9+ years. Research-first, architect-then-build, verify. My focus is the scarce part: judging whether what the AI produced can be trusted, and building the loops that catch where it can't. Deep React/TypeScript, broad full-stack, an MCP server in Go.
 
 ### What I'm Working On
 
-- **MCP Servers** — Building tools that connect AI to real development workflows
-- **AI-Powered Documentation** — Automated systems for maintaining business logic specs
-- **Creative Coding** — Generative art and glitch tools through [Intora Works](https://intoraworks.com)
+- **Verification loops** — context systems, gated workflows, and adversarial review that make AI output trustworthy
+- **MCP** — an MCP server in Go (Momentum) that exposes my working context to any Claude interface
+- **Creative coding** — generative art and glitch tools at [INTORA](https://intora.net)
 
 ### Featured Projects
 
-🎨 **[Signal & Noise](https://github.com/dang-w/signal-and-noise)** — Real-time glitch art application with 34+ effects, layer system, and 60fps Canvas rendering
+🔧 **[Momentum MCP Server](https://github.com/dang-w/momentum-mcp-server)** — Production MCP server in Go (Fly.io, bearer + OAuth) exposing personal productivity context to any Claude interface
 
-🔧 **[Example MCP](https://github.com/dang-w/example-mcp)** — Model Context Protocol server implementations for AI-assisted development
+🎨 **[INTORA](https://intora.net)** — Generative art catalogue under a documented human-AI collaboration model
 
-🎹 **[Amber Schematic](https://marketplace.visualstudio.com/items?itemName=dang-w.theme-amber-schematic)** — VS Code theme published to both marketplaces
+🎛️ **[Signal & Noise](https://github.com/dang-w/signal-and-noise)** — Real-time glitch art application with a layer system and blend modes, rendered on Canvas
+
+🎹 **[Amber Schematic](https://marketplace.visualstudio.com/items?itemName=dang-w.theme-amber-schematic)** — VS Code theme published to VS Code Marketplace and Open VSX
 
 ### Tech I Use Most
 
-**Deep:** React, TypeScript, Next.js  
-**Broad:** Node.js, Python, FastAPI, PostgreSQL, Docker, AWS  
-**Developing:** LLM APIs, Prompt Engineering, RAG Systems
+**Deep:** React, TypeScript, Next.js
+**Broad:** Node.js, Python, Go, FastAPI, PostgreSQL, Docker
+**Developing:** LLM APIs, MCP, context engineering
 
 ---
 
