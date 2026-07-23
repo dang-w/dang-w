@@ -17,6 +17,10 @@ Senior engineer, 9+ years. Research-first, architect-then-build, verify. My focu
 
 🔧 **[Momentum MCP Server](https://github.com/dang-w/momentum-mcp-server)** — Production MCP server in Go (Fly.io, bearer + OAuth) exposing personal productivity context to any Claude interface
 
+🔬 **[Sceptic](https://github.com/dang-w/sceptic)** — Multi-agent adversarial code-review agent; every finding must cite a firsthand, falsifying observation, never a passing test suite taken on trust
+
+🧪 **[trace-eval](https://github.com/dang-w/trace-eval)** — End-to-end LLM evaluation harness with a typed execution trace, fully offline-testable (no API key required)
+
 🎨 **[INTORA](https://intora.net)** — Generative art catalogue under a documented human-AI collaboration model
 
 🎛️ **[Signal & Noise](https://github.com/dang-w/signal-and-noise)** — Real-time glitch art application with a layer system and blend modes, rendered on Canvas
